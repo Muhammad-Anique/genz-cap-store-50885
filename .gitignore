@@ -12,9 +12,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment
-.env
-.env.local
 
 # OS
 .DS_Store
 Thumbs.db
+config.bat
